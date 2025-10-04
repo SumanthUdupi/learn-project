@@ -14,6 +14,10 @@ config/name="Learn Project"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[run]
+
+main_scene="res://player.tscn"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
